@@ -31,8 +31,8 @@ print (a <= b)  # Less than or equal to
 """
 
 # Pate: Python  Operators
-# Logical Operators   
-
+# Logical Operators
+""""
 x = True
 y = False
 print (x and y)  # Logical AND จริงเเละจริง
@@ -44,3 +44,4 @@ print (~x)    # Bitwise NOT
 a = 5
 b = 10
 print ((a < 10) and (b > 5))  # True and True -> True
+"""

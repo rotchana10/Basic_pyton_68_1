@@ -1,6 +1,6 @@
 """
 #
-# Pate: Python Comment
+
 #
 """
 
