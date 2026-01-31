@@ -1,0 +1,24 @@
+git clone https://github.com/rotchana10/Basic_pyton_68_1.git
+
+cd  เเล้วตามชื่อfolder
+cd.. ออกจากfolderที่เข้าอยู่
+ls  เอาไว้เช็คว่าที่เราอยู่มีfolder อะไร
+ls -al
+pwd เอาใว้เช็คถาดปัจจุบัน
+
+code .
+antigravity .
+
+git init การทำให้folderรู้จักกับเครื่องมือกิต
+git remote add origin
+
+git config --global user.name "your name"
+git config --global user.name "your email"
+
+git add . เลือกไฟล์ไปsave .ทั้งหมด
+git commit -m "your message"  ตัวอย่าง setup project
+git push origin main  #main คือกิ่งการสาขา ดูที่ซ้ายล้าง
+
+git pull origin main คือ2คอม2เครื่อง เเก้โค้ดจากที่บ้านอีกเครื่องก็เเก้ให้เลย
+
+
